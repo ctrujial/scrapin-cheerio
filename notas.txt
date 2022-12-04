@@ -1,0 +1,8 @@
+npm i playwright (permite descargar navegadores sin interfas grafica)
+
+--3--
+npm install --save request
+npm install --save request-promise
+
+toscrape.com
+http://quotes.toscrape.com/
